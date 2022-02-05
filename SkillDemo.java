@@ -1,1 +1,5 @@
-public class SkillDemo{}
+public class SkillDemo{
+    public int add(int i,int j){
+        return i+j;
+    }
+}
