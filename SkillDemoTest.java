@@ -5,6 +5,6 @@ public class SkillDemoTest {
     @Test
     public void addition(){
         SkillDemo test=new SkillDemo();
-        assertEquals(1,test.add(1,3));
+        assertEquals(4,test.add(1,3));
     }
 }
